@@ -58,5 +58,5 @@ Entity Framework (EF). Below are the tasks to be completed for each part of the 
     booking is successful using TWILIO.
    
 6.Finally ,Test the API endpoints using Postman.
-For more INFORMATION,Take a look at here [View the PDF file](CaRenaltSS.pdf)
+For more INFORMATION,Take a look at here [View the PDF file](CarRenatlSS.pdf)
 )
